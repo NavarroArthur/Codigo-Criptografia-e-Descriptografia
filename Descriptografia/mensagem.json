@@ -1,0 +1,204 @@
+{
+    "encoding": "decimal",
+    "public_key": 3273,
+    "ciphertext_ordered": [
+        5479079,
+        6172979,
+        3086555,
+        6172979,
+        5973257,
+        1954092,
+        932837,
+        5479114,
+        3724775,
+        32,
+        2065295,
+        2759171,
+        1060484,
+        4713152,
+        32,
+        1060484,
+        2759171,
+        932837,
+        3325400,
+        4713152,
+        1626713,
+        238961,
+        5279381,
+        238961
+    ],
+    "ciphertext_postorder": [
+        238961,
+        238961,
+        32,
+        32,
+        932837,
+        1626713,
+        1060484,
+        1060484,
+        932837,
+        2759171,
+        2759171,
+        2065295,
+        1954092,
+        3325400,
+        5279381,
+        4713152,
+        4713152,
+        3724775,
+        3086555,
+        5479114,
+        5973257,
+        6172979,
+        6172979,
+        5479079
+    ],
+    "ciphertext_length": 24,
+    "bst_nodes": [
+        {
+            "id": 0,
+            "value": 5479079,
+            "left": 1,
+            "right": 20
+        },
+        {
+            "id": 1,
+            "value": 3086555,
+            "left": 2,
+            "right": 15
+        },
+        {
+            "id": 2,
+            "value": 1954092,
+            "left": 3,
+            "right": 12
+        },
+        {
+            "id": 3,
+            "value": 932837,
+            "left": 4,
+            "right": 8
+        },
+        {
+            "id": 4,
+            "value": 32,
+            "left": null,
+            "right": 5
+        },
+        {
+            "id": 5,
+            "value": 32,
+            "left": null,
+            "right": 6
+        },
+        {
+            "id": 6,
+            "value": 238961,
+            "left": null,
+            "right": 7
+        },
+        {
+            "id": 7,
+            "value": 238961,
+            "left": null,
+            "right": null
+        },
+        {
+            "id": 8,
+            "value": 1060484,
+            "left": 9,
+            "right": 10
+        },
+        {
+            "id": 9,
+            "value": 932837,
+            "left": null,
+            "right": null
+        },
+        {
+            "id": 10,
+            "value": 1060484,
+            "left": null,
+            "right": 11
+        },
+        {
+            "id": 11,
+            "value": 1626713,
+            "left": null,
+            "right": null
+        },
+        {
+            "id": 12,
+            "value": 2065295,
+            "left": null,
+            "right": 13
+        },
+        {
+            "id": 13,
+            "value": 2759171,
+            "left": null,
+            "right": 14
+        },
+        {
+            "id": 14,
+            "value": 2759171,
+            "left": null,
+            "right": null
+        },
+        {
+            "id": 15,
+            "value": 3724775,
+            "left": 16,
+            "right": 17
+        },
+        {
+            "id": 16,
+            "value": 3325400,
+            "left": null,
+            "right": null
+        },
+        {
+            "id": 17,
+            "value": 4713152,
+            "left": null,
+            "right": 18
+        },
+        {
+            "id": 18,
+            "value": 4713152,
+            "left": null,
+            "right": 19
+        },
+        {
+            "id": 19,
+            "value": 5279381,
+            "left": null,
+            "right": null
+        },
+        {
+            "id": 20,
+            "value": 6172979,
+            "left": 21,
+            "right": 23
+        },
+        {
+            "id": 21,
+            "value": 5973257,
+            "left": 22,
+            "right": null
+        },
+        {
+            "id": 22,
+            "value": 5479114,
+            "left": null,
+            "right": null
+        },
+        {
+            "id": 23,
+            "value": 6172979,
+            "left": null,
+            "right": null
+        }
+    ],
+    "note": "Use a chave privada (m_priv) no modulo para obter a mensagem verdadeira."
+}

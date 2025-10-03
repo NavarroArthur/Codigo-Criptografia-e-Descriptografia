@@ -1,0 +1,5 @@
+# Este projeto não requer a instalação de pacotes externos.
+# Usa apenas módulos nativos do Python 3.6 ou superior (random, json, etc.).
+
+python>=3.6
+
